@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
                 <span className="text-emerald-400 font-black text-xl">R</span>
               </div>
               <div className="flex flex-col">
-                <span className="text-xl font-bold text-[#0D312F] tracking-tight leading-none uppercase">RAJ COURSE</span>
+                <span className="text-xl font-bold text-[#0D312F] tracking-tight leading-none uppercase">SUMIT COURSE</span>
                 <span className="text-[10px] text-emerald-600 font-bold tracking-[0.2em] uppercase">Premium Tech</span>
               </div>
             </Link>
@@ -49,7 +49,7 @@ const Footer: React.FC = () => {
           
           <div>
             <h4 className="text-sm font-bold text-[#0D312F] uppercase tracking-widest mb-6">Newsletter</h4>
-            <p className="text-slate-500 mb-6 text-sm">Join the RAJ COURSE community for exclusive insights and hardware deals.</p>
+            <p className="text-slate-500 mb-6 text-sm">Join the SUMIT COURSE community for exclusive insights and hardware deals.</p>
             <div className="flex gap-2 p-1 border border-slate-200 rounded-full focus-within:border-emerald-500 transition-colors">
               <input type="email" placeholder="Email address" className="bg-transparent pl-4 py-2 flex-grow outline-none text-sm" />
               <button className="bg-[#0D312F] text-white px-6 py-2 rounded-full text-xs font-bold hover:bg-emerald-800 transition-colors">Join Now</button>

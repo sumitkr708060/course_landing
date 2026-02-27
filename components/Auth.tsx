@@ -31,7 +31,7 @@ const AuthModal: React.FC<AuthModalProps> = ({ isOpen, onClose, onLogin }) => {
              <span className="text-emerald-400 font-black text-2xl">R</span>
           </div>
           <h2 className="text-3xl font-bold text-[#0D312F] uppercase tracking-tight">{isLogin ? 'Welcome Back' : 'Create Account'}</h2>
-          <p className="text-slate-500 mt-2">Join the elite RAJ COURSE community.</p>
+          <p className="text-slate-500 mt-2">Join the elite SUMIT COURSE community.</p>
         </div>
 
         <form onSubmit={handleSubmit} className="space-y-4">
