@@ -34,7 +34,7 @@ const Navbar: React.FC<NavbarProps> = ({ cartCount, onOpenCart, onOpenAuth, user
             <span className="text-emerald-400 font-black text-xl">R</span>
           </div>
           <div className="flex flex-col">
-            <span className="text-xl font-bold text-[#0D312F] tracking-tight leading-none uppercase">RAJ COURSE</span>
+            <span className="text-xl font-bold text-[#0D312F] tracking-tight leading-none uppercase">SUMIT COURSE</span>
             <span className="text-[10px] text-emerald-600 font-bold tracking-[0.2em] uppercase">Premium Tech</span>
           </div>
         </Link>
