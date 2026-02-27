@@ -58,7 +58,7 @@ const Footer: React.FC = () => {
         </div>
         
         <div className="pt-8 border-t border-slate-100 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-slate-400">
-          <p>&copy; 2026 RAJ COURSE Global. All rights reserved.</p>
+          <p>&copy; 2026 SUMIT COURSE Global. All rights reserved.</p>
           <div className="flex gap-8">
             <Link to="#" className="hover:text-[#0D312F]">Privacy Policy</Link>
             <Link to="#" className="hover:text-[#0D312F]">Terms of Service</Link>
