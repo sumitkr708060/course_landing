@@ -21,7 +21,7 @@ const Home: React.FC<HomeProps> = ({ addToCart }) => {
             New Session Enrolling Now
           </div>
           <h1 className="text-4xl md:text-7xl font-bold text-[#0D312F] max-w-4xl mx-auto leading-tight md:leading-[1.1]">
-            Master Hardware with <span className="text-emerald-700 underline decoration-emerald-200 underline-offset-8">sumit COURSE</span> Technology
+            Master Hardware with <span className="text-emerald-700 underline decoration-emerald-200 underline-offset-8">SUMIT COURSE</span> Technology
           </h1>
           <p className="mt-8 text-lg md:text-xl text-slate-500 max-w-2xl mx-auto">
             Expert-led courses and professional grade electronics to elevate your manufacturing. Take your career further with cutting-edge automation.
