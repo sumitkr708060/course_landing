@@ -21,7 +21,7 @@ const Home: React.FC<HomeProps> = ({ addToCart }) => {
             New Session Enrolling Now
           </div>
           <h1 className="text-4xl md:text-7xl font-bold text-[#0D312F] max-w-4xl mx-auto leading-tight md:leading-[1.1]">
-            Master Hardware with <span className="text-emerald-700 underline decoration-emerald-200 underline-offset-8">RAJ COURSE</span> Technology
+            Master Hardware with <span className="text-emerald-700 underline decoration-emerald-200 underline-offset-8">sumit COURSE</span> Technology
           </h1>
           <p className="mt-8 text-lg md:text-xl text-slate-500 max-w-2xl mx-auto">
             Expert-led courses and professional grade electronics to elevate your manufacturing. Take your career further with cutting-edge automation.
@@ -84,7 +84,7 @@ const Home: React.FC<HomeProps> = ({ addToCart }) => {
           <div className="bg-[#0D312F] text-white p-10 rounded-[40px] flex flex-col justify-center">
             <h3 className="text-5xl font-bold">5000+</h3>
             <p className="mt-4 text-emerald-100/60 leading-relaxed text-lg">
-              Success Stories from RAJ COURSE Alumni
+              Success Stories from sumit COURSE Alumni
             </p>
           </div>
 
@@ -155,7 +155,7 @@ const Home: React.FC<HomeProps> = ({ addToCart }) => {
                 <div className="flex justify-between items-center mt-4">
                   <span className="text-2xl font-bold text-emerald-600">₹{prod.price}</span>
                   <button 
-                    onClick={() => addToCart({ ...prod, description: 'Premium content by RAJ COURSE', category: prod.category })}
+                    onClick={() => addToCart({ ...prod, description: 'Premium content by SUMIT COURSE', category: prod.category })}
                     className="p-3 bg-slate-50 rounded-xl text-[#0D312F] hover:bg-[#0D312F] hover:text-white transition-colors"
                   >
                     <i className="fa-solid fa-cart-plus"></i>
@@ -171,7 +171,7 @@ const Home: React.FC<HomeProps> = ({ addToCart }) => {
       <section className="py-24 px-6">
         <div className="max-w-7xl mx-auto bg-[#0D312F] rounded-[60px] p-12 md:p-24 text-center relative overflow-hidden">
           <div className="relative z-10">
-            <h2 className="text-3xl md:text-5xl font-bold text-white mb-8">Ready to start your journey with RAJ COURSE?</h2>
+            <h2 className="text-3xl md:text-5xl font-bold text-white mb-8">Ready to start your journey with sumit COURSE?</h2>
             <p className="text-emerald-100/60 max-w-xl mx-auto mb-12 text-lg leading-relaxed">
               Join thousands of professionals worldwide who are already mastering the future of tech.
             </p>
